@@ -1,0 +1,27 @@
+a vore con el sublime
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/definitivo b/definitivo
+new file mode 160000
+index 0000000..34360c8
+--- /dev/null
++++ b/definitivo
+@@ -0,0 +1 @@
++Subproject commit 34360c8a3b1d3548628c98488cceb355bbbab486
+diff --git a/index.html b/index.html
+index 444f746..aac1639 100644
+--- a/index.html
++++ b/index.html
+@@ -13,7 +13,8 @@
+ 		<div class="cercle cercle1">
+         <p>modificando para git</p>
+ 		<p>he vulto a modificar</p>
+-			
++		<p>a vore con el sublime</p>
++			d
+ 		</div>
+ 		<hr>
+ 		<div class="cercle cercle2"></div>
